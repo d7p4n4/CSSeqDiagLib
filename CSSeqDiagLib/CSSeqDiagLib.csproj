@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Ac4y</Authors>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CSAc4yLib" Version="1.0.0" />
+    <PackageReference Include="CSGUIDLib" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
